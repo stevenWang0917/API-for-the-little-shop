@@ -1,2 +1,2 @@
-# API address
+# API hostname
 https://shop-api-rg.herokuapp.com/

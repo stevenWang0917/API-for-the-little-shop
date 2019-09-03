@@ -2,7 +2,7 @@ const jwt = require('jsonwebtoken');
 
 const APP_SECRET = "myappecret";
 
-const USERNAME = 'admin', PASSWORD = 'secret';
+const USERNAME = 'admin', PASSWORD = 'admin';
 
 const anonOps = [
     {method: "GET", urls: ["/api/products", "/api/categories"]},

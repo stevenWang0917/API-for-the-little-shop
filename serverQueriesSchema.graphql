@@ -1,5 +1,5 @@
 
-type product { id: ID!, name: String!, description: String! category: String! 
+type product { id: ID!, name: String!, image: String!,description: String! category: String! 
                price: Float! }
 
 type productPage { totalSize: Int!, products(sort: String, page: Int, pageSize: Int): [product]}

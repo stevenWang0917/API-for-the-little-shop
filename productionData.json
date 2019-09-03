@@ -1,0 +1,102 @@
+{
+    "products": [
+        {   
+            "id": 1, 
+            "name": "iPhone XR",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/130/13016/13016058.jpg", 
+            "category": "Cell Phones",
+            "description": "Brilliant. In every way. All-new Liquid Retina display -- the most advanced LCD in the industry. Even faster Face ID. The smartest, most powerful chip in a smartphone. And a breakthrough camera system. iPhone XR. It’s beautiful any way you look at it.", 
+            "price": 899.99 
+        },
+        { 
+            "id": 2, 
+            "name": "Arc'teryx Men's Zeta SL Jacket", 
+            "image": "https://www.sportinglife.ca/dw/image/v2/BCLQ_PRD/on/demandware.static/-/Sites-spl-master/default/dwaf45e9d5/images/default/25120494_TRAIL_BLAZE_3.JPG?sw=700", 
+            "category": "Clothing",
+            "description": "The Zeta SL Jacket is designed specifically as an emergency shell for hiking. It packs up small so it's ready whenever sudden storms arise. This superlight, packable, emergency waterproof jacket is made from GORE-TEX® fabric with Paclite® Plus product technology. The minimalist design and fully articulated patterning gives an exceptional fit and freedom of movement. Featured with a WaterTight™ front zipper and two hand pockets with RS™ sliders.", 
+            "price": 379.99 
+        },
+        { 
+            "id": 3, 
+            "name": "Samsung 65 4K UHD HDR LED Tizen Smart TV", 
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/127/12785/12785900.jpg", 
+            "category": "TV",
+            "description": "Enjoy home entertainment like never before with the Samsung 65 4K UHD LED Smart TV. HDR and PurColour technology bring out the smallest details and deliver an amazing array of colours for exceptional, lifelike clarity that immerses you in every scene. The Tizen operating system allows you to explore the expansive world of digital streaming.", 
+            "price": 899.99 
+        },
+        { 
+            "id": 4, 
+            "name": "MacBook Pro with Touch Bar 13.3", 
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/127/12727/12727808.jpg", 
+            "category": "Computers",
+            "description": "The new MacBook Pro has quad-core Intel Core processors with compute speeds that are up to twice as fast.1 A brilliant and colourful Retina display featuring True Tone technology for a more true-to-life viewing experience. And the versatile Touch Bar for more ways to be productive. It’s Apple’s most powerful 13-inch notebook. Pushed even further.",
+            "price": 1999.99 
+        },
+        { 
+            "id": 5, 
+            "name": "Blundstone #585 The Leather Lined In Rustic Brown", 
+            "image": "https://www.sportinglife.ca/dw/image/v2/BCLQ_PRD/on/demandware.static/-/Sites-spl-master/default/dw827aee86/images/default/24188518_ONE_COLOUR_3.JPG?sw=700", 
+            "category": "Footware",
+            "description": "The 585 in Rustic Brown brings total Blundstone comfort home to Canada. Rustic yet refined, leather lined, feather light and crafted to last. Perfect for the outdoors, a microcell midsole makes these boots comfortable anywhere, any day.", 
+            "price": 229.95 
+        },
+        { 
+            "id": 6, 
+            "name": "Samsung Galaxy Note10 256GB", 
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/138/13818/13818785.jpg", 
+            "category": "Cell Phones",
+            "description": "Take stunning photos, multi-task, and more all with the Samsung Galaxy Note10. This smartphone features 3 rear cameras and a front camera to capture amazing photos and fantastic selfies. Its 8GB of RAM and octa-core Snapdragon 855+ CPU can run all sorts of apps smoothly, while the 256GB storage capacity means ample room for your files and photos.", 
+            "price": 1259.99 
+        },
+        { 
+            "id": 7, 
+            "name": "GoPro HERO7 Waterproof 4K Sports & Helmet Camera", 
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/129/12910/12910138.jpg", 
+            "category": "Cameras",
+            "description": "Smart, tough, and made for adventure, the GoPro HERO7 offers brilliant performance. Hypersmooth stabilization offers smooth, gimbal-like video without the gimbal. Intelligent photo technology captures the best images by applying HDR, tone mapping, or noise reduction automatically. And even without a housing, it’s waterproof to 30 feet.",
+            "price": 439.99 
+        },
+        { 
+            "id": 8, 
+            "name": "Canada Goose Men's Emory Parka", 
+            "image": "https://www.sportinglife.ca/dw/image/v2/BCLQ_PRD/on/demandware.static/-/Sites-spl-master/default/dwc2b15e6f/images/default/24701229_MILITARY_GREEN_3.JPG?sw=700", 
+            "category": "Clothing",
+            "description": "Essential warmth with sleek quilting and a slim, hip-length cut. The Men's Emory Parka from Canada Goose features premium insulation, various secured pockets and adjustable bracing wire on the hood for superior protection in high-wind conditions. For un-paramount versatility throughout your day, the Emory is designed with two fleece-lined slash pockets set on top of two lower pockets with snap closure, allowing you to easily access all you essentials without fumbling around in the cold.", 
+            "price": 1095 
+        },
+        { 
+            "id": 9, 
+            "name": "Apple iMac Pro (MQ2Y2LL/A) 27 Intel Xeon W 3.2GHz", 
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/122/12291/12291820.jpg", 
+            "category": "Computers",
+            "description": "iMac Pro is powered by an Intel Xeon W processor with up to 18 cores for incredible performance. Its Radeon Pro Vega graphics chip lets you build and render amazingly lifelike special effects and VR worlds. And with up to 128GB of memory and 4TB of flash storage, saving and loading projects happen almost instantly. Introducing iMac Pro, the most powerful Mac ever.", 
+            "price": 6299.99 
+        },
+        { 
+            "id": 10, 
+            "name": "Sony 65 4K UHD HDR LED Android Smart TV (XBR65X900F)", 
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/123/12322/12322171.jpg", 
+            "category": "TV",
+            "description": "Bring your entertainment to life with the Sony X900F 4K HDR TV. It boasts a 4K Ultra HD resolution and a TRILUMINOS display, plus cutting-edge technology like the X1 Extreme Processor 4K HDR super bit mapping. This television offers blur-free motion, brilliant colours, and a dynamic range. Google Assistant and Android TV open up a world of possibilities.", 
+            "price": 1799.99 
+        },
+        { 
+            "id": 11, 
+            "name": "LG 65 4K UHD HDR LED webOS Smart TV (65UM7300AUE)", 
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/134/13411/13411516_1.jpg", 
+            "category": "TV",
+            "description": "Lose yourself in the true-to-life visual experience you'll get from this LG 65 UHD 4K LED smart TV with HDR. The amazingly enhanced colour spectrum, deepest blacks, and brightest whites create crisp, clear imagery that is so realistic it puts you in every scene. With webOS, you will open up a limitless world of streaming content.", 
+            "price": 999.99 
+        },
+        { 
+            "id": 12, 
+            "name": "Apple MacBook Air 13.3 (Intel Core i5 1.6GHz / 128GB SSD / 8GB RAM)", 
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/137/13792/13792715_2.jpg", 
+            "category": "Computers",
+            "description": "The new thinner and lighter MacBook Air features a brilliant Retina display with True Tone technology, Touch ID, the latest-generation keyboard and a Force Touch trackpad. The iconic wedge is created from 100 percent recycled aluminum, making it the greenest Mac ever. All-day battery makes the MacBook Air is your perfectly portable, do-it-all notebook.", 
+            "price": 1349.99 
+        }
+        ],
+    "categories": ["Cell Phones", "Computers", "Cameras", "TV", "Clothing", "Footware"],
+    "orders": []
+    }

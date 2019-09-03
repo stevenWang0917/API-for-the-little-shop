@@ -7,9 +7,8 @@ const { buildSchema } = require("graphql");
 const graphqlHTTP = require("express-graphql");
 const queryResolvers = require("./serverQueriesResolver");
 const mutationResolvers = require("./serverMutationsResolver");
-const fileName = /* process.argv[2] || */"./productionData.json"
+const fileName = "./productionData.json"
 
-/**For deploying on Heroku, modify the below statement:*/
 const port = process.env.PORT || 3500;
 
 const auth = require("./authMiddleware");
@@ -34,9 +33,6 @@ const createServer = () => {
 }
 
 createServer();
-
-app.use(history());
-app.use("/", express.static("./build"));
 
 app.use(cors());
 app.use(jsonServer.bodyParser)
